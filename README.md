@@ -1,2 +1,2 @@
 # luzhuokun.github.io
-LuZhuoKun的个人博客
+[个人博客](https://luzhuokun.github.io/Notebook)
